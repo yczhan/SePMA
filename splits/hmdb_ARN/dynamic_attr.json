@@ -1,0 +1,155 @@
+{
+    "brush_hair": [
+        "a person repeatedly moves a hairbrush through the hair to brush and smooth it"
+    ],
+    "cartwheel": [
+        "a person rotates the body sideways with hands and feet touching the ground in sequence"
+    ],
+    "catch": [
+        "a person reaches out with both hands to intercept and grasp a moving object"
+    ],
+    "chew": [
+        "a person repeatedly moves the jaw up and down to chew food or gum"
+    ],
+    "clap": [
+        "a person raises both hands and repeatedly claps them together"
+    ],
+    "climb": [
+        "a person ascends a vertical surface by pulling and pushing with hands and feet"
+    ],
+    "climb_stairs": [
+        "a person ascends stairs by alternately lifting and placing feet on higher steps"
+    ],
+    "dive": [
+        "a person jumps from an edge and descends into the water"
+    ],
+    "draw_sword": [
+        "a person pulls a sword from its sheath in a swift drawing motion"
+    ],
+    "dribble": [
+        "a person continuously bounces a basketball with one hand while moving"
+    ],
+    "drink": [
+        "a person lifts a container to the mouth, drinks, and lowers it"
+    ],
+    "eat": [
+        "a person brings food to the mouth, chews, and swallows"
+    ],
+    "fall_floor": [
+        "a person loses balance and falls downward onto the floor"
+    ],
+    "fencing": [
+        "a person lunges forward and thrusts a foil at another person in a fencing exchange"
+    ],
+    "flic_flac": [
+        "a person jumps backward, arches the body, and flips over both hands to land on the mat"
+    ],
+    "golf": [
+        "a person swings a golf club back and down to strike the ball"
+    ],
+    "handstand": [
+        "a person kicks the legs up and balances upside down on both hands"
+    ],
+    "hit": [
+        "a person swings an arm or weapon forcefully to strike a target"
+    ],
+    "hug": [
+        "a person moves toward another person and wraps arms around them in an embrace"
+    ],
+    "jump": [
+        "a person bends the knees, pushes off the ground, becomes airborne, and lands"
+    ],
+    "kick": [
+        "a person raises one leg and extends the foot to kick a target or into the air"
+    ],
+    "kick_ball": [
+        "a person approaches a soccer ball and swings one leg to kick it away"
+    ],
+    "kiss": [
+        "a person moves face close to another person until lips touch or nearly touch"
+    ],
+    "laugh": [
+        "a person opens the mouth wide and shakes the upper body while laughing"
+    ],
+    "pick": [
+        "a person bends down, grasps an object, and lifts it off the ground"
+    ],
+    "pour": [
+        "a person tilts a container to pour liquid out of it"
+    ],
+    "pullup": [
+        "a person pulls body upward on a bar until the chin rises above it, then lowers back down"
+    ],
+    "punch": [
+        "a person extends a clenched fist rapidly forward to strike a target"
+    ],
+    "push": [
+        "a person extends both arms and pushes an object away with force"
+    ],
+    "pushup": [
+        "a person repeatedly lowers the chest toward the ground and pushes back up in a plank position"
+    ],
+    "ride_bike": [
+        "a person pedals a bicycle forward while steering with the handlebars"
+    ],
+    "ride_horse": [
+        "a person rides a horse forward with rhythmic motion while holding the reins"
+    ],
+    "run": [
+        "a person moves forward quickly with alternating leg strides and arm swings"
+    ],
+    "shake_hands": [
+        "a person reaches out, grasps another person's hand, and shakes it up and down"
+    ],
+    "shoot_ball": [
+        "a person raises a basketball and releases it upward toward the hoop"
+    ],
+    "shoot_bow": [
+        "a person draws the bowstring back, aims, and releases the arrow toward a target"
+    ],
+    "shoot_gun": [
+        "a person aims a gun and pulls the trigger to fire"
+    ],
+    "sit": [
+        "a person bends the knees and lowers body down onto a seat or the ground"
+    ],
+    "situp": [
+        "a person repeatedly lifts the torso toward the knees and lowers back down while lying on the back"
+    ],
+    "smile": [
+        "a person gradually lifts the corners of the mouth into a smile"
+    ],
+    "smoke": [
+        "a person inhales from a cigarette and exhales smoke into the air"
+    ],
+    "somersault": [
+        "a person tucks the body and rolls forward or backward in a full rotational flip"
+    ],
+    "stand": [
+        "a person rises from a seated position to an upright standing posture"
+    ],
+    "swing_baseball": [
+        "a person rotates the torso and swings a baseball bat to hit the ball"
+    ],
+    "sword": [
+        "a person lunges forward and strikes with a sword while another person defends"
+    ],
+    "sword_exercise": [
+        "a person performs a sequence of controlled slash and thrust movements with a sword"
+    ],
+    "talk": [
+        "a person speaks with mouth movements and hand gestures in a conversation"
+    ],
+    "throw": [
+        "a person rotates the body and releases an object forward through the air"
+    ],
+    "turn": [
+        "a person rotates the head or body to change facing direction"
+    ],
+    "walk": [
+        "a person moves forward by alternately stepping with coordinated arm swings"
+    ],
+    "wave": [
+        "a person raises one hand and moves the arm side to side in a waving gesture"
+    ]
+}

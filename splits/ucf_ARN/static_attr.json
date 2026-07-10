@@ -1,0 +1,457 @@
+{
+    "Apply Eye Makeup": [
+        "a person holding eye makeup products in front of a mirror",
+        "a person applying makeup to the eyelid or lashes with precise strokes"
+    ],
+    "Archery": [
+        "an outdoor archery range with a distant target",
+        "a person holding a bow with an arrow loaded",
+        "a person pulling the bowstring back while aiming",
+        "a person releasing an arrow toward the target"
+    ],
+    "Baby Crawling": [
+        "a baby positioned on all fours on the floor",
+        "a baby moving forward on hands and knees"
+    ],
+    "Balance Beam": [
+        "a balance beam in an indoor gymnastics gym",
+        "a person stepping onto the beam with arms outstretched",
+        "a person walking along the beam maintaining balance",
+        "a person performing a dismount from the balance beam"
+    ],
+    "Band Marching": [
+        "marching band members in uniform lined up in formation",
+        "band members holding instruments such as drums or trumpets",
+        "band members marching in sync while playing",
+        "a parade route with a marching band performing"
+    ],
+    "Baseball Pitch": [
+        "a baseball field with a pitcher's mound",
+        "a person standing on the mound holding a baseball",
+        "a person winding up with arm back and one leg raised",
+        "a person releasing a baseball toward home plate"
+    ],
+    "Basketball": [
+        "a basketball court with a hoop",
+        "a person holding a basketball on the court",
+        "a person dribbling toward the hoop",
+        "a person jumping to shoot the basketball"
+    ],
+    "Basketball Dunk": [
+        "a person approaching the hoop while dribbling",
+        "a person jumping toward the hoop with the ball in both hands",
+        "a person slamming the basketball through the hoop"
+    ],
+    "Bench Press": [
+        "a gym with a bench and loaded barbell",
+        "a person lying on a bench gripping a barbell above the chest",
+        "a person lowering a barbell toward the chest",
+        "a person pushing a barbell upward with arms fully extended"
+    ],
+    "Biking": [
+        "a person sitting on a bicycle with hands on the handlebars",
+        "a person pedaling a bicycle along a road or path"
+    ],
+    "Billiards": [
+        "a person aiming a cue stick at the cue ball on a pool table",
+        "a cue ball striking billiard balls on the table"
+    ],
+    "Blow Dry Hair": [
+        "a person holding a hair dryer in front of a mirror",
+        "a person directing airflow from a hair dryer at damp hair"
+    ],
+    "Body Weight Squats": [
+        "a person standing with feet shoulder-width apart",
+        "a person lowering into a squat with knees bent and hips back"
+    ],
+    "Bowling": [
+        "a person holding a bowling ball at the start of a lane",
+        "a person swinging a bowling ball forward down the lane",
+        "a bowling ball rolling toward pins at the end of the lane"
+    ],
+    "Boxing Punching Bag": [
+        "a person in a boxing stance facing a punching bag",
+        "a person delivering a punch to a hanging punching bag"
+    ],
+    "Boxing Speed Bag": [
+        "a person standing in front of a speed bag with hands raised",
+        "a person hitting a speed bag with rapid alternating punches",
+        "a speed bag rebounding back and forth between punches"
+    ],
+    "Breast Stroke": [
+        "a swimming pool with a person in the water",
+        "a person with arms extended forward in the water",
+        "a person pulling arms in a circular motion while lifting the head to breathe",
+        "a person kicking legs in a frog-like motion while gliding forward"
+    ],
+    "Brushing Teeth": [
+        "a person standing at a bathroom sink with a toothbrush",
+        "a person brushing teeth with a toothbrush at the sink"
+    ],
+    "Cricket Bowling": [
+        "a cricket pitch with a wicket at one end",
+        "a person at the start of a run-up holding a cricket ball",
+        "a person running forward with arm swinging back to bowl",
+        "a person releasing a cricket ball toward the wicket"
+    ],
+    "Drumming": [
+        "a person sitting at a drum set holding drumsticks",
+        "drumsticks striking drums and cymbals"
+    ],
+    "Fencing": [
+        "a fencing piste in an indoor setting",
+        "a person wearing a fencing mask in an en garde stance",
+        "a person lunging forward with a foil aimed at another person",
+        "two people fencing with swords clashing on the piste"
+    ],
+    "Field Hockey Penalty": [
+        "a hockey ball on the penalty spot with a goal in the background",
+        "a goalkeeper standing ready in front of the goal",
+        "a person swinging a hockey stick back to strike the ball",
+        "a hockey ball traveling toward the goal"
+    ],
+    "Frisbee Catch": [
+        "a frisbee flying through the air toward a person in an open field",
+        "a person reaching out with both hands to catch a frisbee"
+    ],
+    "Front Crawl": [
+        "a person swimming face-down with arms extended forward",
+        "a person alternating arm strokes through the water",
+        "a person turning head to the side to breathe while swimming"
+    ],
+    "Haircut": [
+        "a salon chair and mirror in a hair salon",
+        "a person sitting in the chair while another person stands behind with scissors",
+        "scissors or clippers trimming sections of hair",
+        "freshly trimmed hair visible in the salon mirror"
+    ],
+    "Hammering": [
+        "a person holding a nail against a wooden surface",
+        "a person striking a nail with a hammer"
+    ],
+    "Head Massage": [
+        "a person sitting or lying while receiving a head massage",
+        "hands massaging the scalp with circular motions"
+    ],
+    "Hula Hoop": [
+        "a person standing with a hula hoop around the waist",
+        "a hula hoop spinning around the waist as hips move"
+    ],
+    "Javelin Throw": [
+        "a track and field runway with a javelin throwing area",
+        "a person holding a javelin at the start of the runway",
+        "a person running forward while carrying a javelin",
+        "a person releasing a javelin with arm fully extended"
+    ],
+    "Juggling Balls": [
+        "a person holding multiple balls in an open space",
+        "balls tossed and caught in a continuous juggling cycle"
+    ],
+    "Jumping Jack": [
+        "a person standing with feet together and arms at the sides",
+        "a person jumping with legs spread and arms raised overhead"
+    ],
+    "Kayaking": [
+        "a person sitting in a kayak holding a paddle",
+        "a paddle dipping into the water beside a kayak",
+        "a kayak moving across a lake or river"
+    ],
+    "Knitting": [
+        "a person holding knitting needles and yarn",
+        "needles looping yarn to form stitches in rows"
+    ],
+    "Long Jump": [
+        "a track with a long jump takeoff board and sand pit",
+        "a person sprinting toward the takeoff board",
+        "a person leaping forward with body extended in mid-air",
+        "a person landing in the sand pit"
+    ],
+    "Lunges": [
+        "a person stepping forward with one knee bent and back leg straight",
+        "a person pushing back up to standing from a lunge position"
+    ],
+    "Military Parade": [
+        "soldiers in uniform standing in precise formation on a parade ground",
+        "soldiers marching in synchronized steps",
+        "soldiers carrying flags during a parade",
+        "a military parade route with spectators watching"
+    ],
+    "Mixing": [
+        "a person holding a mixing bowl with ingredients",
+        "a person stirring ingredients with a spoon or whisk"
+    ],
+    "Mopping Floor": [
+        "a person dipping a mop into a bucket of cleaning solution",
+        "a person pushing a mop across the floor"
+    ],
+    "Nunchucks": [
+        "a person holding a pair of nunchucks in one hand",
+        "nunchucks swinging in controlled arcs around the body"
+    ],
+    "Parallel Bars": [
+        "parallel bars apparatus in a gymnasium",
+        "a person gripping parallel bars with body above the bars",
+        "a person swinging and balancing between the bars",
+        "a person dismounting from parallel bars onto a mat"
+    ],
+    "Pizza Tossing": [
+        "a person holding a ball of pizza dough on a floured countertop",
+        "pizza dough tossed and spinning in the air",
+        "a person catching stretched pizza dough with both hands"
+    ],
+    "Playing Cello": [
+        "a person seated with a cello between the knees",
+        "a bow drawn across cello strings",
+        "fingers pressing on the neck of a cello",
+        "a concert or indoor setting with a person playing cello"
+    ],
+    "Playing Dhol": [
+        "a person standing with a dhol drum strapped across the body",
+        "drumsticks striking both sides of a dhol drum"
+    ],
+    "Playing Flute": [
+        "a person holding a flute horizontally at the lips",
+        "fingers covering holes on a flute while blowing to produce sound"
+    ],
+    "Playing Piano": [
+        "a piano or keyboard in an indoor setting",
+        "a person sitting at a piano with hands over the keys",
+        "fingers pressing piano keys in sequence",
+        "sheet music on a stand beside the piano"
+    ],
+    "Playing Sitar": [
+        "a person seated cross-legged holding a sitar upright",
+        "fingers plucking sitar strings while pressing frets"
+    ],
+    "Playing Tabla": [
+        "a person seated with a pair of tabla drums in front",
+        "hands striking tabla drumheads with fingers and palms"
+    ],
+    "Playing Violin": [
+        "a person holding a violin on the shoulder with a bow",
+        "a bow drawn across violin strings",
+        "fingers pressing down on a violin fingerboard",
+        "a concert or indoor setting with a person playing violin"
+    ],
+    "Pole Vault": [
+        "a track and field runway with a high bar and landing mat",
+        "a person gripping a pole at the start of the runway",
+        "a person running with a pole toward the plant box",
+        "a person clearing the high bar during a pole vault"
+    ],
+    "Pull Ups": [
+        "a person hanging from a pull-up bar with arms fully extended",
+        "a person with chin risen above the bar, elbows bent"
+    ],
+    "Push Ups": [
+        "a person in a plank position with hands on the ground",
+        "a person lowering chest toward the ground with elbows bent",
+        "arms extended pushing body back up from the ground"
+    ],
+    "Rafting": [
+        "an inflatable raft on a river with people wearing life jackets",
+        "people in a raft holding paddles",
+        "paddles dipping into whitewater beside the raft",
+        "a raft navigating through river rapids"
+    ],
+    "Rope Climbing": [
+        "a person grasping a vertical rope with both hands",
+        "a person pulling body upward hand-over-hand on a rope"
+    ],
+    "Rowing": [
+        "a person sitting in a rowing boat gripping oars",
+        "oars pulled back through the water as the boat glides forward"
+    ],
+    "Shaving Beard": [
+        "a person standing in front of a bathroom mirror with a razor",
+        "a razor gliding along the beard area on the face"
+    ],
+    "Skijet": [
+        "a person sitting on a jet ski wearing a life jacket",
+        "a jet ski speeding across the water with a wake behind",
+        "a person turning a jet ski on open water"
+    ],
+    "Soccer Juggling": [
+        "a soccer ball balanced on one foot",
+        "a person keeping a soccer ball in the air with repeated foot and knee taps"
+    ],
+    "Soccer Penalty": [
+        "a soccer ball on the penalty spot facing a goal",
+        "a goalkeeper standing ready in front of the goal",
+        "a person running up to kick the ball toward the goal",
+        "a goalkeeper diving to block a penalty shot"
+    ],
+    "Sumo Wrestling": [
+        "two sumo wrestlers in mawashi crouching face to face in a ring",
+        "sumo wrestlers charging and pushing against each other",
+        "one sumo wrestler forcing another out of the ring"
+    ],
+    "Swing": [
+        "a person sitting on a playground swing holding the chains",
+        "a person swinging back and forth on a swing"
+    ],
+    "Table Tennis Shot": [
+        "a table tennis table with a net in an indoor setting",
+        "a person holding a paddle in ready position",
+        "a person swinging a paddle to hit a table tennis ball over the net"
+    ],
+    "Tai Chi": [
+        "a person standing in a relaxed open-air or indoor space",
+        "a person performing slow controlled arm and weight-shifting movements"
+    ],
+    "Throw Discus": [
+        "a discus circle on a track and field area",
+        "a person standing in the circle holding a discus",
+        "a person spinning to build momentum with a discus",
+        "a discus released and flying through the air"
+    ],
+    "Trampoline Jumping": [
+        "a person airborne above a trampoline surface",
+        "a person landing on a trampoline with knees bent"
+    ],
+    "Typing": [
+        "a person sitting at a desk with hands over a keyboard",
+        "eyes focused on a computer screen while fingers press keys"
+    ],
+    "Uneven Bars": [
+        "uneven bars apparatus in a gymnasium",
+        "a person gripping the lower bar and swinging for momentum",
+        "a person transitioning between the upper and lower bars",
+        "a person dismounting from uneven bars onto a mat"
+    ],
+    "Walking WithDog": [
+        "a person holding a leash attached to a dog",
+        "a person and a dog walking together on a sidewalk or in a park"
+    ],
+    "Wall Pushups": [
+        "a person standing facing a wall with hands placed at chest level",
+        "a person leaning toward the wall with elbows bent, then pushing back"
+    ],
+    "Writing on Board": [
+        "a chalkboard or whiteboard in a classroom or meeting room",
+        "a person writing letters or symbols on the board with chalk or marker",
+        "words or diagrams visible on the board"
+    ],
+    "Yo-Yo": [
+        "a person holding a yo-yo with the string extended",
+        "a yo-yo rolling down the string and snapping back up into the hand"
+    ],
+    "Blowing Candles": [
+        "lit candles on a birthday cake or surface",
+        "a person leaning forward and blowing toward the candles",
+        "candles extinguished with smoke rising from the wicks"
+    ],
+    "Clean and Jerk": [
+        "a loaded barbell on the ground in a gym",
+        "a person lifting a barbell from the floor to the shoulders in a clean",
+        "a person dipping under the barbell at shoulder height",
+        "a person pushing a barbell overhead with arms fully extended in a jerk"
+    ],
+    "Cliff Diving": [
+        "a person standing at the edge of a cliff above a body of water",
+        "a person leaping off a cliff with body positioned in the air",
+        "water surface below a cliff with ripples from entry"
+    ],
+    "Cutting in Kitchen": [
+        "a knife and cutting board with food items in a kitchen",
+        "a person slicing food with a knife on the cutting board"
+    ],
+    "Diving": [
+        "a diving board or platform above a swimming pool",
+        "a person standing at the edge preparing to dive",
+        "a person launching into the air with a streamlined dive form",
+        "water surface with a splash from a dive entry"
+    ],
+    "Floor Gymnastics": [
+        "an open floor mat in a gymnasium or competition arena",
+        "a person performing flips or handsprings across the mat",
+        "a person executing tumbling passes with controlled form",
+        "a person finishing a floor routine in a final balanced pose"
+    ],
+    "Golf Swing": [
+        "a golf course with grass and a tee",
+        "a person standing beside a golf ball gripping a club",
+        "a person swinging a golf club back in preparation",
+        "a person striking a golf ball with a downward swing"
+    ],
+    "Handstand Walking": [
+        "a flat open surface or gym floor",
+        "a person balanced upside down on both hands",
+        "hands placed one after the other as the person moves forward",
+        "a person walking on hands while maintaining an inverted posture"
+    ],
+    "Horse Race": [
+        "a racetrack with a starting gate",
+        "horses and jockeys lined up at the gate",
+        "horses galloping down the track with jockeys leaning forward",
+        "horses approaching a finish line"
+    ],
+    "Ice Dancing": [
+        "an ice rink with two skaters in performance attire",
+        "two people holding hands or in close dance position on ice",
+        "two people performing synchronized spins and glides",
+        "two people finishing a routine in a final pose on ice"
+    ],
+    "Jump Rope": [
+        "a person holding jump rope handles with rope behind the feet",
+        "a person jumping over a swinging rope in a steady rhythm"
+    ],
+    "Pommel Horse": [
+        "a pommel horse apparatus in a gymnasium",
+        "a person with both hands gripping the pommel horse",
+        "legs swinging in circular motion over the pommel horse",
+        "a person dismounting from the pommel horse onto a mat"
+    ],
+    "Punch": [
+        "a person in a fighting stance with fists raised",
+        "an arm extending rapidly forward in a punching motion"
+    ],
+    "Rock Climbing Indoor": [
+        "an indoor climbing wall with colorful holds",
+        "a person wearing a harness attached to a climbing rope",
+        "a person gripping holds with hands and placing feet on footholds",
+        "a person ascending an indoor climbing wall"
+    ],
+    "Salsa Spin": [
+        "two people facing each other on a dance floor",
+        "one person guiding another person in a salsa spin",
+        "a dancer completing a spin and resuming dance position"
+    ],
+    "Skiing": [
+        "a snow-covered mountain slope",
+        "a person at the top of a slope with skis and poles",
+        "a person descending the slope with knees bent",
+        "skis carving through snow leaving tracks behind"
+    ],
+    "Sky Diving": [
+        "a person jumping from an airplane at high altitude",
+        "a person in free fall with arms and legs spread to stabilize descent",
+        "a parachute canopy deploying above a person in mid-air",
+        "a person descending under an open parachute toward the ground",
+        "a skydiving suit and harness gear visible during the jump"
+    ],
+    "Still Rings": [
+        "still rings apparatus suspended in a gymnasium",
+        "a person gripping the rings with body lifted off the ground",
+        "a person holding an iron cross or L-sit strength pose on the rings",
+        "a person dismounting from still rings onto a mat"
+    ],
+    "Surfing": [
+        "an ocean with waves approaching a beach",
+        "a person paddling on a surfboard in the water",
+        "a person standing on a surfboard as a wave carries them forward",
+        "a surfboard cutting along the face of a wave"
+    ],
+    "Tennis Swing": [
+        "a tennis court with a net",
+        "a person holding a tennis racket in ready position",
+        "a person swinging a racket to strike a tennis ball",
+        "a tennis ball traveling over the net"
+    ],
+    "Volleyball Spiking": [
+        "a volleyball court with a net and players on both sides",
+        "a person approaching the net as a ball is set upward",
+        "a person jumping with arm drawn back above the head",
+        "a person striking a volleyball forcefully downward over the net"
+    ]
+}

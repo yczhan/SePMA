@@ -1,0 +1,266 @@
+{
+    "Pouring something into something": [
+        "The person tilts the container, causing the contents to flow out and into another container."
+    ],
+    "Poking a stack of something without the stack collapsing": [
+        "The person carefully pokes the stack, causing slight wobbling without collapse."
+    ],
+    "Pretending to poke something": [
+        "The person extends their finger towards an object without making contact."
+    ],
+    "Lifting up one end of something without letting it drop down": [
+        "The person lifts one end of an object steadily and maintains its elevation without dropping it."
+    ],
+    "Moving part of something": [
+        "The person grasps and shifts the object to a new position."
+    ],
+    "Moving something and something away from each other": [
+        "The objects are initially together and then move apart from each other."
+    ],
+    "Removing something, revealing something behind": [
+        "The person removes an object to reveal what is behind it."
+    ],
+    "Plugging something into something": [
+        "The person aligns and inserts an object into a receptacle."
+    ],
+    "Tipping something with something in it over, so something in it falls out": [
+        "The object is tilted, causing the contents to spill out."
+    ],
+    "Stacking number of something": [
+        "The person repeatedly places items on top of each other to form a stack."
+    ],
+    "Putting something onto a slanted surface but it doesn't glide down": [
+        "The object is placed on a slanted surface and remains stationary."
+    ],
+    "Moving something across a surface until it falls down": [
+        "The object is pushed along a surface until it tips over the edge and falls."
+    ],
+    "Throwing something in the air and catching it": [
+        "The person throws an object upwards and catches it as it descends."
+    ],
+    "Putting something that cannot actually stand upright upright on the table, so it falls on its side": [
+        "The object is placed upright but quickly tips over and falls to its side."
+    ],
+    "Holding something next to something": [
+        "The person moves an object close to another object and maintains proximity."
+    ],
+    "Pretending to put something underneath something": [
+        "The person mimics placing an object under another without actually doing so."
+    ],
+    "Poking something so lightly that it doesn't or almost doesn't move": [
+        "The person gently touches the object with minimal force, causing little to no movement."
+    ],
+    "Approaching something with your camera": [
+        "The camera moves steadily closer to the subject."
+    ],
+    "Poking something so that it spins around": [
+        "The object is poked and begins to rotate around its axis."
+    ],
+    "Pushing something so that it falls off the table": [
+        "The object is pushed across the surface until it tips over and falls off the edge."
+    ],
+    "Spilling something next to something": [
+        "The person tilts a container, causing liquid to flow out and spread next to an object."
+    ],
+    "Pretending or trying and failing to twist something": [
+        "The person grips an object, applies twisting force, but fails to achieve rotation."
+    ],
+    "Pulling two ends of something so that it separates into two pieces": [
+        "The person grips both ends and pulls apart until separation occurs."
+    ],
+    "Lifting up one end of something, then letting it drop down": [
+        "The person lifts one end upwards and releases it to fall back down."
+    ],
+    "Tilting something with something on it slightly so it doesn't fall down": [
+        "The object is tilted carefully to maintain balance and prevent the top item from falling."
+    ],
+    "Spreading something onto something": [
+        "The person moves an object across a surface to distribute it evenly."
+    ],
+    "Touching (without moving) part of something": [
+        "The person maintains contact with an object without causing displacement."
+    ],
+    "Turning the camera left while filming something": [
+        "The camera pans left, shifting the field of view."
+    ],
+    "Pushing something so that it slightly moves": [
+        "The object is pushed gently and moves a small distance."
+    ],
+    "Uncovering something": [
+        "The person removes a covering to reveal an object underneath."
+    ],
+    "Moving something across a surface without it falling down": [
+        "The object is pushed or pulled steadily across the surface while maintaining balance."
+    ],
+    "Putting something behind something": [
+        "The person moves an object from the front to the back of another object."
+    ],
+    "Attaching something to something": [
+        "The person brings two objects together and secures them in place."
+    ],
+    "Pulling something onto something": [
+        "The person grips an object and moves it onto another surface."
+    ],
+    "Burying something in something": [
+        "The person places an object into a container and covers it with material."
+    ],
+    "Putting number of something onto something": [
+        "The person picks up items and places them onto a surface or container sequentially."
+    ],
+    "Letting something roll along a flat surface": [
+        "The object is set in motion and continues to roll steadily along the surface."
+    ],
+    "Bending something until it breaks": [
+        "The person applies increasing force until the object snaps."
+    ],
+    "Showing something behind something": [
+        "The person moves an object to reveal what is behind it."
+    ],
+    "Pretending to open something without actually opening it": [
+        "The person mimics the motion of opening without completing the action."
+    ],
+    "Pretending to put something onto something": [
+        "The person moves an object towards another object but stops short of placing it."
+    ],
+    "Moving away from something with your camera": [
+        "The camera moves backward, increasing the distance from the subject."
+    ],
+    "Wiping something off of something": [
+        "The person moves their hand back and forth across a surface to remove something."
+    ],
+    "Pretending to spread air onto something": [
+        "The person mimics holding an object and moves hand back and forth as if spreading air."
+    ],
+    "Holding something over something": [
+        "The person lifts an object and positions it above another object."
+    ],
+    "Pretending or failing to wipe something off of something": [
+        "The person makes wiping motions without effectively removing anything."
+    ],
+    "Pretending to put something on a surface": [
+        "The person mimics placing an object onto a surface without releasing it."
+    ],
+    "Moving something and something so they collide with each other": [
+        "Objects are moved towards each other until they collide."
+    ],
+    "Pretending to turn something upside down": [
+        "The person mimics rotating an object without actually holding it."
+    ],
+    "Showing something to the camera": [
+        "The person moves an object towards the camera to display it."
+    ],
+    "Dropping something onto something": [
+        "An object is released from a height and descends onto another object."
+    ],
+    "Pushing something so that it almost falls off but doesn't": [
+        "The object is pushed towards the edge but stabilizes before falling."
+    ],
+    "Piling something up": [
+        "The person repeatedly places objects on top of each other to form a stack."
+    ],
+    "Taking one of many similar things on the table": [
+        "The hand reaches out, selects an item, and retracts with the chosen object."
+    ],
+    "Putting something in front of something": [
+        "The person moves an object and places it in front of another object."
+    ],
+    "Laying something on the table on its side, not upright": [
+        "The object is rotated and placed sideways on the table."
+    ],
+    "Lifting a surface with something on it until it starts sliding down": [
+        "The surface is lifted gradually until the object slides down due to gravity."
+    ],
+    "Poking something so it slightly moves": [
+        "The object is lightly touched, causing a subtle movement."
+    ],
+    "Putting something into something": [
+        "The person moves an object and places it inside another object."
+    ],
+    "Pulling something from right to left": [
+        "The object moves steadily from right to left."
+    ],
+    "Showing that something is empty": [
+        "The person reveals the empty state by opening, tilting, or displaying the object."
+    ],
+    "Spilling something behind something": [
+        "The person tilts an object, causing liquid to flow behind another object."
+    ],
+    "Letting something roll down a slanted surface": [
+        "The object accelerates as it rolls down the inclined surface."
+    ],
+    "Holding something behind something": [
+        "The person moves an object behind another object and holds it stationary."
+    ],
+    "Twisting (wringing) something wet until water comes out": [
+        "The person twists and compresses the wet object repeatedly to expel water."
+    ],
+    "Poking a hole into something soft": [
+        "The person applies pressure with a pointed object to puncture a soft surface."
+    ],
+    "Pretending to take something from somewhere": [
+        "The person extends their hand, mimics grasping, and retracts it as if holding something."
+    ],
+    "Putting something upright on the table": [
+        "The person lifts an object and positions it vertically on the table."
+    ],
+    "Poking a hole into some substance": [
+        "The person applies force with a pointed object to create a hole in the substance."
+    ],
+    "Rolling something on a flat surface": [
+        "The object moves smoothly across the surface with continuous rolling motion."
+    ],
+    "Poking a stack of something so the stack collapses": [
+        "The person pokes the stack, causing it to collapse and scatter."
+    ],
+    "Twisting something": [
+        "The person rotates or turns an object along its axis repeatedly."
+    ],
+    "Something falling like a feather or paper": [
+        "The object descends slowly and sways side to side."
+    ],
+    "Putting something on the edge of something so it is not supported and falls down": [
+        "The object is placed on the edge and tilts until it falls off."
+    ],
+    "Pushing something off of something": [
+        "The object is moved away from its original position by a pushing force."
+    ],
+    "Dropping something into something": [
+        "The object is released and descends into another object or container."
+    ],
+    "Letting something roll up a slanted surface, so it rolls back down": [
+        "The object rolls upward on a slanted surface and reverses direction to roll downward."
+    ],
+    "Pushing something with something": [
+        "One object is moved forward or sideways using another object."
+    ],
+    "Opening something": [
+        "The person applies force to separate or expose the contents of an object."
+    ],
+    "Putting something on a surface": [
+        "The person moves an object downward and places it onto a surface."
+    ],
+    "Taking something out of something": [
+        "The person reaches into an object and retrieves an item."
+    ],
+    "Spinning something that quickly stops spinning": [
+        "The object spins rapidly and abruptly halts."
+    ],
+    "Unfolding something": [
+        "The person manipulates an object to spread or open it gradually."
+    ],
+    "Moving something towards the camera": [
+        "The object moves closer to the camera over time."
+    ],
+    "Putting something next to something": [
+        "The person moves an object and places it adjacent to another object."
+    ],
+    "Scooping something up with something": [
+        "The person moves an object downward and then upward to gather or lift something."
+    ],
+    "Squeezing something": [
+        "The person applies pressure to compress or deform an object."
+    ],
+    "Failing to put something into something because something does not fit": [
+        "The person attempts to insert an object but repeatedly fails due to size mismatch."
+    ]
+}
